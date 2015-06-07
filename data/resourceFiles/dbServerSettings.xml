@@ -1,0 +1,9 @@
+<class type='resource.DbServerSettings'>
+    <dialect>org.hibernate.dialect.MySQLDialect</dialect>
+    <driverClass>com.mysql.jdbc.Driver</driverClass>
+    <connectionUrl>jdbc:mysql://localhost:3306/java_2015_02_g09_db</connectionUrl>
+    <username>java_2015_02_g09</username>
+    <password>java_2015_02_g09</password>
+    <showSql>false</showSql>
+    <mode>validate</mode>
+</class>
